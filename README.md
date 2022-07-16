@@ -1,4 +1,4 @@
-# PlayerGUI2
+# PlayerGUI
 
 ## Description
 This GUI program written in python can play mp3 files.
